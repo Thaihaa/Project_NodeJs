@@ -136,24 +136,4 @@ Phần backend của ứng dụng quản lý nhà hàng với kiến trúc micro
 - **Winston**: Ghi nhật ký
 - **Mailer**: Xác thực mail
 
-## Tài khoản Admin và staff
-admin1:
-- Username: admin1
-- Email: admin1@nhahang.com
-- Vai trò: admin
-- Password: Admin@123
-admin2:
-- Username: admin2
-- Email: admin2@nhahang.com
-- Vai trò: admin
-- Password:    
-staff1:
-- Username: staff1
-- Email: staff1@nhahang.com
-- Vai trò: staff
-- Password: Staff@123
-staff2:
-- Username: staff2
-- Email: staff2@nhahang.com
-- Vai trò: staff
-- Password: Staff@123
+
